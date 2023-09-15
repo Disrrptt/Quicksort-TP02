@@ -1,0 +1,8 @@
+		ARQUIVO FINAL
+
+Array ordenado: abacate, abacaxi, amora, banana, caqui, cereja, 
+				figo, framboesa, goiaba, kiwi, laranja, limão, 
+				maca, manga, melancia, morango, papaya, pera, pêssego, uva
+Trocas: 49
+Comparacoes: 169
+Mediana do array: laranja
